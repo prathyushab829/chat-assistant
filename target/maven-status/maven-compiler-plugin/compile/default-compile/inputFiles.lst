@@ -1,0 +1,14 @@
+/Users/prathyushaboddu/Documents/GitHub/chat-assistant/src/main/java/com/java/chat/ChatAssistantApplication.java
+/Users/prathyushaboddu/Documents/GitHub/chat-assistant/src/main/java/com/java/chat/controller/ChatController.java
+/Users/prathyushaboddu/Documents/GitHub/chat-assistant/src/main/java/com/java/chat/domain/ChatMessage.java
+/Users/prathyushaboddu/Documents/GitHub/chat-assistant/src/main/java/com/java/chat/domain/Conversation.java
+/Users/prathyushaboddu/Documents/GitHub/chat-assistant/src/main/java/com/java/chat/domain/MessageRole.java
+/Users/prathyushaboddu/Documents/GitHub/chat-assistant/src/main/java/com/java/chat/dto/ChatRequest.java
+/Users/prathyushaboddu/Documents/GitHub/chat-assistant/src/main/java/com/java/chat/dto/ChatResponse.java
+/Users/prathyushaboddu/Documents/GitHub/chat-assistant/src/main/java/com/java/chat/service/ChatService.java
+/Users/prathyushaboddu/Documents/GitHub/chat-assistant/src/main/java/com/java/chat/service/ConversationService.java
+/Users/prathyushaboddu/Documents/GitHub/chat-assistant/src/main/java/com/java/llm/api/LlmClient.java
+/Users/prathyushaboddu/Documents/GitHub/chat-assistant/src/main/java/com/java/llm/impl/MockLlmClient.java
+/Users/prathyushaboddu/Documents/GitHub/chat-assistant/src/main/java/com/java/llm/impl/OpenAiLlmClient.java
+/Users/prathyushaboddu/Documents/GitHub/chat-assistant/src/main/java/com/java/persistence/ConversationRepository.java
+/Users/prathyushaboddu/Documents/GitHub/chat-assistant/src/main/java/com/java/persistence/MessageRepository.java

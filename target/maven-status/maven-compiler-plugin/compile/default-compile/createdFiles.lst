@@ -1,0 +1,14 @@
+com/java/chat/domain/MessageRole.class
+com/java/chat/dto/ChatRequest.class
+com/java/persistence/MessageRepository.class
+com/java/chat/domain/ChatMessage.class
+com/java/chat/service/ConversationService.class
+com/java/llm/api/LlmClient.class
+com/java/persistence/ConversationRepository.class
+com/java/chat/controller/ChatController.class
+com/java/chat/domain/Conversation.class
+com/java/llm/impl/MockLlmClient.class
+com/java/llm/impl/OpenAiLlmClient.class
+com/java/chat/ChatAssistantApplication.class
+com/java/chat/dto/ChatResponse.class
+com/java/chat/service/ChatService.class
